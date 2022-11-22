@@ -57,6 +57,8 @@ The dataset is collected from FAA (Fedaral Aviation Administration) during 2000-
 
 ## Power Bi Interactive Dashboard
 
+https://github.com/deepdk/Data-Visualization-of-Bird-Strikes/blob/main/Bird%20strikes.pbix
+
 
 
 
